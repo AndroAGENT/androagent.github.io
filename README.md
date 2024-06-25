@@ -1,3 +1,3 @@
 <p align="center">
-  <strong>Welcome to Andro's Website!</strong>
+  <strong style="font-size: 72px;">Welcome to Andro's Website!</strong>
 </p>
