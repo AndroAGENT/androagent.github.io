@@ -1,3 +1,3 @@
 <p align="center">
-  # Welcome to Andro's Website!
+  <strong>Welcome to Andro's Website!</strong>
 </p>
